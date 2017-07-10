@@ -1,0 +1,12 @@
+
+{
+  "HomePage": {
+    "ChangeLanguageTitle": "Language",
+    "Welcome": "Welcome User!",
+    "AboutUsPageTitle": "About Us",
+    "AboutUsDescription": "Acme Inc is a leading digital solutions and technology services company that specializes in partnering with global organizations across industries on their Digital Transformation journey. A technology partner of choice, backed by a strong track-record of innovation; credible investment in digital solutions; and assertion of commitment to client’s success, Acme Inc’s comprehensive range of digital and technology services and solutions enables its customers to achieve new thresholds of business performance."
+  },
+  "AnotherPage": {
+    "Title": "Another Page"
+  }
+}

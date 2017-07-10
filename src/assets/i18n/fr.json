@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "ChangeLanguageTitle": "la langue",
+    "Welcome": "Bienvenue Utilisateur!",
+    "AboutUsPageTitle": "à propos de nous",
+    "AboutUsDescription": "Acme Inc est une entreprise leader dans le domaine des solutions numériques et des services technologiques spécialisée dans les partenariats avec des organisations mondiales à travers les industries dans le cadre de leur parcours de transformation numérique. Un partenaire technologique de choix, soutenu par un solide bilan de l'innovation; Investissement crédible dans les solutions numériques; Et l'affirmation de l'engagement envers le succès du client, la gamme complète de services et de solutions numériques et technologiques d'Acme Inc permet à ses clients d'atteindre de nouveaux seuils de performance commerciale."
+  },
+  "AnotherPage": {
+    "Title": "Une autre page"
+  }
+}

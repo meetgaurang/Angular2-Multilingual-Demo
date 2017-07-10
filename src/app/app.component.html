@@ -1,0 +1,29 @@
+<!--The whole content below can be removed with the new code.-->
+<div style="text-align:center">
+  <h1>
+    Acme Inc.
+  </h1>
+</div>
+
+<div>
+  <div class="sub-header">
+    <div class="leftdiv">
+      {{ "HomePage.Welcome" | translate }}
+    </div>
+    <div class="rightdiv">
+      {{ "HomePage.ChangeLanguageTitle" | translate }}
+      <select [(ngModel)]="selectedLanguage" (ngModelChange)="languageChange($event)">
+        <option value="gu">Gujarati</option>
+        <option value="hi">Hindi</option>
+        <option value="en">English</option>
+        <option value="fr">French</option>
+      </select>
+    </div>
+  </div>
+  <div class="page-header">
+    <h3>{{ "HomePage.AboutUsPageTitle" | translate }}</h3>
+  </div>
+  {{ "HomePage.AboutUsDescription" | translate }}
+</div>
+
+
