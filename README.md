@@ -1,6 +1,8 @@
-# MySampleAPP
+# Angular (2 & above) Multilingual Demo with ngx-translate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
+A simple multilingual Angular application. It supports four languages; English, Gujarati, Hindi and French. [ngx-translate](https://github.com/ngx-translate) - an Angular library was used to achieve this multilingual behavior. All language mapping resource files (e.g. en.json, gu.json, hi.json & fr.json) are kept under src/assets/i18n.
+
+## Application Screenshots
 
 ## Development server
 
