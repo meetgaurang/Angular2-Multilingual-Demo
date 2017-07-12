@@ -4,6 +4,18 @@ A simple multilingual Angular application. It supports four languages; English, 
 
 ## Application Screenshots
 
+**English**
+![English](../master/docs/en_screenshot.png)
+
+**French**
+![English](../master/docs/fr_screenshot.png)
+
+**Gujarati**
+![English](../master/docs/gu_screenshot.png)
+
+**Hindi**
+![English](../master/docs/hi_screenshot.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
