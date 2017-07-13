@@ -4,17 +4,16 @@ A simple multilingual Angular application. It supports four languages; English, 
 
 ## Application Screenshots
 
-**English**
-
+**English**  
 ![English](../master/docs/en_screenshot.png)
 
-**French**
+**French**  
 ![English](../master/docs/fr_screenshot.png)
 
-**Gujarati**
+**Gujarati**  
 ![English](../master/docs/gu_screenshot.png)
 
-**Hindi**
+**Hindi**  
 ![English](../master/docs/hi_screenshot.png)
 
 ## Development server
