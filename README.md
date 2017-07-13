@@ -5,6 +5,7 @@ A simple multilingual Angular application. It supports four languages; English, 
 ## Application Screenshots
 
 **English**
+
 ![English](../master/docs/en_screenshot.png)
 
 **French**
